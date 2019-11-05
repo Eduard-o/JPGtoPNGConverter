@@ -1,5 +1,7 @@
 '''
 A Python script that converts JPG images to PNG
+
+usage: python JPGtoPNGConverter.py <from_this_folder_path> <to_this_folder_path>
 '''
 
 # pylint: disable=invalid-name
